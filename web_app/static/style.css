@@ -1,0 +1,32 @@
+body {
+    font: Arial, Helvetica,sans-serif;
+    padding: 0px;
+    background-color:#f4f3f3;
+    height: 100%;
+}
+ 
+header {
+    background: #006a9a;
+    border-bottom: black 1px solid;
+    height: 120px;
+    width: 100%;
+    padding-top:3 0px;
+    color: white;
+}
+ 
+.form-control-title {
+    font-size: 1.8em;
+}
+ 
+.form-control {
+    resize: none;
+}
+ 
+.divider {
+    border: 0.5px solid #d4d4d4;
+    width: 70%;
+}
+ 
+.results {
+    width: 70%;
+}
